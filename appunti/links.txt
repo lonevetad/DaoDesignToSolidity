@@ -1,0 +1,10 @@
+MAJOR TOOLS
+
+https://lxml.de/tutorial.html
+https://lxml.de/validation.html
+
+
+random tutorial:
+-) https://pulplearning.altervista.org/come-leggere-e-scrivere-un-xml-in-python/
+-) Beautifulsoup
+-)  https://learn.microsoft.com/it-it/dotnet/standard/data/xml/reading-and-writing-xml-schemas
